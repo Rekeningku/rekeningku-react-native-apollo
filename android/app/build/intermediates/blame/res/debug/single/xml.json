@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/rekeningku/.android/build-cache/d360f5f909dcf55b2c72e13fe6c7e95458ae21de/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/res/xml/provider_paths.xml"
+    }
+]

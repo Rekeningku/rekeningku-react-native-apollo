@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
