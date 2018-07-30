@@ -41,7 +41,8 @@ class Form extends Component {
               marginTop: 25,
               marginBottom: 25,
               backgroundColor : '#2B79C9'
-          }}
+            }}
+            onPress={handleSubmit}
           >
               <Text style={{ color : 'white' }}>Login</Text>
           </Button>
