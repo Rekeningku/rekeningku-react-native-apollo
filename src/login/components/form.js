@@ -32,8 +32,8 @@ class Form extends Component {
       <View style={styles.container}>
         <ScrollView>
           <View style={styles.content}>
-            <Field name="name" component={NBTextInput} label="Name" placeholder="Input name here." validate={[required]} regular/>
-            <Field name="password" component={NBTextInput} label="Password" placeholder="Password" validate={[required]} regular/>
+            <Field name="Email" component={NBTextInput} label="Email" validate={[required]} floatingLabel/>
+            <Field name="password" component={NBTextInput} label="Password" validate={[required]} floatingLabel/>
           </View>
           <Button
             block
@@ -53,7 +53,7 @@ class Form extends Component {
 }
 
 const ContainerForm = reduxForm({
-  form: 'example',
+  form: 'login',
 })(Form)
 
 Form.propTypes = {

@@ -5,6 +5,7 @@ import { THEME } from './config';
 import { SETTINGS_SCREEN } from './settings/container';
 import { MARKETS_SCREEN } from './markets/container';
 import { LOGIN_SCREEN } from './login/container';
+import { REGISTER_SCREEN } from './register/container';
 import { WALLETS_SCREEN } from './wallets/container';
 
 const tabs = [
@@ -23,11 +24,15 @@ const tabs = [
     icon: homeIcoSrc,
     ...WALLETS_SCREEN
   },
-  {
-    label: 'Login',
-    icon: homeIcoSrc,
-    ...LOGIN_SCREEN
-  }
+  // {
+  //   label: 'Register',
+  //   icon: homeIcoSrc,
+  //   tabBarHidden: true,
+  //   navigatorStyle: {
+  //     tabBarHidden: true,
+  //   },
+  //   ...REGISTER_SCREEN,
+  // }
 ]
 
 export const startTabBasedApp = () => Navigation.startTabBasedApp({

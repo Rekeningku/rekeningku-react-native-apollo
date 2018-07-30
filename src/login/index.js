@@ -29,7 +29,7 @@ export default LoginScreen = (props) => {
                     </View>
                     <Row>
                         <Col sm={12}>
-                            <TouchableOpacity>
+                            <TouchableOpacity onPress={props.goToRegister}>
                                 <Text style={{ color : '#2B79C9', textAlign: 'center' }}>
                                     <Text style={{ color : '#444'}}>Belum punya akun? </Text>
                                     <Text> Daftar Disini</Text>
