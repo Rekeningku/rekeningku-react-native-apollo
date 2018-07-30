@@ -5,6 +5,7 @@ import { THEME } from './config';
 import { SETTINGS_SCREEN } from './settings/container';
 import { MARKETS_SCREEN } from './markets/container';
 import { LOGIN_SCREEN } from './login/container';
+import { WALLETS_SCREEN } from './wallets/container';
 
 const tabs = [
   {
@@ -18,9 +19,9 @@ const tabs = [
     ...MARKETS_SCREEN
   },
   {
-    label: 'Login',
+    label: 'Wallets',
     icon: homeIcoSrc,
-    ...LOGIN_SCREEN
+    ...WALLETS_SCREEN
   }
 ]
 
