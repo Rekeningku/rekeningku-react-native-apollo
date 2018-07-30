@@ -3,8 +3,9 @@ import { Navigation } from 'react-native-navigation'
 
 import apolloAndReduxProviderHOC from './apollo-hoc'
 import { client } from './apollo-client'
-import SettingsScreen,{ SETTINGS_SCREEN } from './settings/container';
-import MarketsScreen,{ MARKETS_SCREEN } from './markets/container';
+import SettingsScreen, { SETTINGS_SCREEN } from './settings/container';
+import MarketsScreen, { MARKETS_SCREEN } from './markets/container';
+import LoginScreen, { LOGIN_SCREEN } from './login/container';
 const registerComponent = redux => (name, component) => {
   Navigation.registerComponent(
     name, 
@@ -17,4 +18,5 @@ const registerComponent = redux => (name, component) => {
 export function registerScreens(redux) {
   registerComponent(redux)(SETTINGS_SCREEN.screen, SettingsScreen)
   registerComponent(redux)(MARKETS_SCREEN.screen, MarketsScreen)
+  registerComponent(redux)(LOGIN_SCREEN.screen, LoginScreen)
 }

@@ -4,6 +4,7 @@ import CounterIcoSrc from './static/images/counter.png'
 import { THEME } from './config';
 import { SETTINGS_SCREEN } from './settings/container';
 import { MARKETS_SCREEN } from './markets/container';
+import { LOGIN_SCREEN } from './login/container';
 
 const tabs = [
   {
@@ -15,6 +16,11 @@ const tabs = [
     label: 'Markets',
     icon: homeIcoSrc,
     ...MARKETS_SCREEN
+  },
+  {
+    label: 'Login',
+    icon: homeIcoSrc,
+    ...LOGIN_SCREEN
   }
 ]
 
