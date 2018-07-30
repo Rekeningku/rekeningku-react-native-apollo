@@ -2,5 +2,9 @@
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

@@ -4,6 +4,14 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }

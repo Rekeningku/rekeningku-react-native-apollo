@@ -4,6 +4,86 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_tint_edittext.xml"
     },
     {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_tint_seek_thumb.xml"
     },
@@ -12,8 +92,12 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
@@ -22,10 +106,6 @@
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
-        "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
@@ -40,24 +120,40 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/switch_thumb_material_light.xml"
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
         "source": "/Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_tint_edittext.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/design_error.xml",
@@ -66,6 +162,10 @@
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
@@ -80,19 +180,15 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/res/color/design_tint_password_toggle.xml"
     },
     {
-        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/color/common_google_signin_btn_tint.xml"
     }
 ]

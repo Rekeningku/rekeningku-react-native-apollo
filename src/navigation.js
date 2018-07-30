@@ -1,25 +1,21 @@
 import { Navigation } from 'react-native-navigation'
-import { HOME_SCREEN } from './screens/Home/index'
-import { MARKETS_SCREEN } from './markets/screens/index'
-
 import homeIcoSrc from './static/images/home.png'
 import CounterIcoSrc from './static/images/counter.png'
 import { THEME } from './config';
-import { SETTINGS_SCREEN } from './settings/screens';
+import { SETTINGS_SCREEN } from './settings/container';
+import { MARKETS_SCREEN } from './markets/container';
 
-const tabs = [{
-  label: 'Home',
-  icon: homeIcoSrc,
-  ...HOME_SCREEN,
-}, {
-  label: 'Markets',
-  icon: CounterIcoSrc,
-  ...MARKETS_SCREEN,
-}, {
-  label: 'Settings',
-  icon: homeIcoSrc,
-  ...SETTINGS_SCREEN
-}
+const tabs = [
+  {
+    label: 'Settings',
+    icon: homeIcoSrc,
+    ...SETTINGS_SCREEN
+  },
+  {
+    label: 'Markets',
+    icon: homeIcoSrc,
+    ...MARKETS_SCREEN
+  }
 ]
 
 export const startTabBasedApp = () => Navigation.startTabBasedApp({

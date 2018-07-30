@@ -1,4 +1,4 @@
-#Fri Jul 27 10:36:39 WIB 2018
-base.0=/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Mon Jul 30 17:42:03 WIB 2018
+base.0=/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
         "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/layout-v21/notification_action.xml"
     },
@@ -8,8 +16,20 @@
         "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/layout-v21/notification_action.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/Users/rekeningku/.android/build-cache/36c3cc4323ddd7cd5c72b789a04db984b844d98d/output/res/layout-v21/bottom_navigation_small_item.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
@@ -22,5 +42,9 @@
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/Users/rekeningku/.android/build-cache/36c3cc4323ddd7cd5c72b789a04db984b844d98d/output/res/layout-v21/bottom_navigation_item.xml"
     }
 ]
