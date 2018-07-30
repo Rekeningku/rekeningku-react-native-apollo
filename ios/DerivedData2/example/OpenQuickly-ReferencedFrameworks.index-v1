@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>jschelpers</string>
+	<string>Foundation</string>
+	<string>CommonCrypto</string>
+	<string>RCTAnimation</string>
+	<string>CoreGraphics</string>
+	<string>AVFoundation</string>
+	<string>mach</string>
+	<string>Accelerate</string>
+	<string>QuartzCore</string>
+	<string>Security</string>
+	<string>libkern</string>
+	<string>CoreText</string>
+	<string>JavaScriptCore</string>
+	<string>React</string>
+	<string>yoga</string>
+	<string>UIKit</string>
+	<string>os</string>
+	<string>sys</string>
+	<string>ObjectiveC</string>
+	<string>Photos</string>
+	<string>CoreLocation</string>
+	<string>SystemConfiguration</string>
+	<string>XCTest</string>
+	<string>cxxreact</string>
+	<string>fishhook</string>
+	<string>folly</string>
+	<string>AssetsLibrary</string>
+	<string>MobileCoreServices</string>
+	<string>ImageIO</string>
+	<string>LocalAuthentication</string>
+	<string>AudioToolbox</string>
+	<string>CoreTelephony</string>
+	<string>objc</string>
+</array>
+</plist>

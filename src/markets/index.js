@@ -47,6 +47,6 @@ export default SettingsScreen = ({logout, bonusStatus, onChangeBonusStatus,loadi
         )
     }
     return(
-        <Text>Markets</Text>
+        <Text>{JSON.stringify(data)}</Text>
     )
 }

@@ -10,8 +10,6 @@ import {
 import { connect } from 'react-redux'
 import { compose, graphql, ApolloConsumer, Mutation, Query } from 'react-apollo';
 import { withState, withHandlers, lifecycle, branch, pure } from 'recompose';
-import { CHECK_BONUS } from '../graphql/api/queires/checkbonus';
-import { CHANGE_BONUS } from '../graphql/api/mutations/changebonus';
 
 const stringToRGB = (str) => {
     var hash = 0;
@@ -38,14 +36,8 @@ const renderOnLogin = (props) => {
     </View>
 }
 
-export default SettingsScreen = ({logout, bonusStatus, onChangeBonusStatus,loading,data}) => {
-    if(loading){
-        return(
-            <View>
-                <Button onPress={logout('okay')} title={'testing'}></Button>
-            </View>
-        )
-    }
+
+export default SettingsScreen = (props) => {
     return(
         <Text>Setting</Text>
     )

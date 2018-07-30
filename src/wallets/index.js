@@ -11,7 +11,7 @@ import { connect } from 'react-redux'
 import { compose, graphql, ApolloConsumer, Mutation, Query } from 'react-apollo';
 import { withState, withHandlers, lifecycle, branch, pure } from 'recompose';
 
-export default Wallets = (props) => {
+export default WalletsScreen = (props) => {
     return(
         <View>
             <Text>Wallets</Text>
