@@ -4,6 +4,10 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/layout-v26/abc_screen_toolbar.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/layout-v26/abc_screen_toolbar.xml"
     }

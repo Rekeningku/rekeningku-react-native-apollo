@@ -4,6 +4,10 @@
         "source": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/stub.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/tofamaulana/Desktop/reactNative/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/search_item.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
         "source": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/search_item.xml"
     },
@@ -14,5 +18,9 @@
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
         "source": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/tofamaulana/Desktop/reactNative/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/stub.xml"
     }
 ]

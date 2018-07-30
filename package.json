@@ -29,6 +29,7 @@
     "lodash.debounce": "^4.0.8",
     "moment": "^2.22.2",
     "native-base": "^2.7.1",
+    "nb-redux-form": "git+https://github.com/Isgi/nb-redux-form.git",
     "qs": "^6.5.2",
     "react": "^16.4.1",
     "react-apollo": "^2.1.9",

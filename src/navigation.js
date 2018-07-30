@@ -22,6 +22,11 @@ const tabs = [
     label: 'Wallets',
     icon: homeIcoSrc,
     ...WALLETS_SCREEN
+  },
+  {
+    label: 'Login',
+    icon: homeIcoSrc,
+    ...LOGIN_SCREEN
   }
 ]
 
