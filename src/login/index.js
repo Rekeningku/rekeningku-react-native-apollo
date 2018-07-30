@@ -27,15 +27,6 @@ export default LoginScreen = (props) => {
                     <View>
                         <Form {...this.props} onSubmit={this.handleSubmit} />
                     </View>
-                    <Button
-                        block
-                        style={{
-                            marginTop: 25,
-                            marginBottom: 25,
-                            backgroundColor : '#2B79C9'
-                            }}>
-                            <Text style={{ color : 'white' }}>Login</Text>
-                        </Button>
                     <Row>
                         <Col sm={12}>
                             <TouchableOpacity>

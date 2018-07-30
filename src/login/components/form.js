@@ -35,10 +35,15 @@ class Form extends Component {
             <Field name="name" component={NBTextInput} label="Name" placeholder="Input name here." validate={[required]} regular/>
             <Field name="password" component={NBTextInput} label="Password" placeholder="Password" validate={[required]} regular/>
           </View>
-          <Button full onPress={handleSubmit}>
-            <Text>
-              Login
-            </Text>
+          <Button
+            block
+            style={{
+              marginTop: 25,
+              marginBottom: 25,
+              backgroundColor : '#2B79C9'
+          }}
+          >
+              <Text style={{ color : 'white' }}>Login</Text>
           </Button>
         </ScrollView>
       </View>
