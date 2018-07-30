@@ -5,12 +5,13 @@ import { client } from '../apollo-client';
 import { InteractionManager, Text } from 'react-native'
 import React from 'react';
 export const LOGIN_SCREEN = {
-    screen: 'settings.Index',
-    title: 'Settings',
+    screen: 'login.Index',
+    title: 'Login',
 }
 
 
 const enhance = compose(
+    withState('interactionsStatus','setInteractions',false),
     connect(),
     withHandlers({
 
@@ -22,7 +23,7 @@ const enhance = compose(
             })
         }
     }),
-    branch(({interactionsStatus})=>interactionsStatus,renderComponent(SettingsScreen),renderComponent(renderNothing())),
+    branch(({interactionsStatus})=>interactionsStatus,renderComponent(LoginScreen),renderComponent(renderNothing())),
     pure
 )
 export default enhance(LoginScreen)
