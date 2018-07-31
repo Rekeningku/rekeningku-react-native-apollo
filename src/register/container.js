@@ -8,11 +8,15 @@ import { LOGIN_SCREEN } from '../login/container';
 
 export const REGISTER_SCREEN = {
     screen: 'register.Index',
-    title: false,
     animated: true,
-    animationType: 'none',
+    animationType: 'fade',
     navigatorStyle: {
         tabBarHidden: true,
+        // navBarHidden: true, 
+        navBarBackgroundColor: '#fff',
+        navBarButtonColor: '#2b79c9',
+        // drawUnderNavBar:true,
+        navBarTransparent: true,
     },
     
 }

@@ -10,11 +10,14 @@ import {
 import { connect } from 'react-redux'
 import { compose, graphql, ApolloConsumer, Mutation, Query } from 'react-apollo';
 import { withState, withHandlers, lifecycle, branch, pure } from 'recompose';
+import { LOGIN_SCREEN } from '../login/container';
 
 export default Wallets = (props) => {
     return(
         <View>
-            <Text>Wallets</Text>
+            <Text onPress={
+                () => props.navigator.showModal(LOGIN_SCREEN)
+            }>Wallets</Text>
         </View>
     )
 }

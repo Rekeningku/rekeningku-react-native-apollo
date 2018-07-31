@@ -7,11 +7,15 @@ import React from 'react';
 import { REGISTER_SCREEN } from '../register/container';
 export const LOGIN_SCREEN = {
     screen: 'login.Index',
-    title: false,
     animated: true,
-    animationType: 'none',
+    animationType: 'fade',
     navigatorStyle: {
         tabBarHidden: true,
+        // navBarHidden: true, 
+        navBarBackgroundColor: '#fff',
+        navBarButtonColor: '#2b79c9',
+        drawUnderNavBar:true,
+        navBarTransparent: true,
     },
 }
 
@@ -21,7 +25,7 @@ const enhance = compose(
     connect(),
     withHandlers({
         goToRegister: props=>()=>{
-            props.navigator.resetTo(REGISTER_SCREEN)
+            props.navigator.push(REGISTER_SCREEN)
           }
     }),
     lifecycle({
