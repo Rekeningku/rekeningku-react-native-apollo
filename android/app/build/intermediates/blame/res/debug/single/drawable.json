@@ -8,12 +8,12 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/tooltip_frame_dark.xml"
     },
     {
-        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_btn_check_material.xml"
-    },
-    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_btn_check_material.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
@@ -28,8 +28,16 @@
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/item_background.xml",
         "source": "/Users/rekeningku/.android/build-cache/36c3cc4323ddd7cd5c72b789a04db984b844d98d/output/res/drawable/item_background.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
@@ -38,6 +46,10 @@
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_btn_check_material.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
@@ -52,12 +64,32 @@
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
         "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/drawable/notification_tile_bg.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/tooltip_frame_light.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
@@ -70,6 +102,10 @@
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
@@ -92,8 +128,16 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
@@ -104,12 +148,48 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_vector_test.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/notification_background.xml",
         "source": "/Users/rekeningku/.android/build-cache/36c3cc4323ddd7cd5c72b789a04db984b844d98d/output/res/drawable/notification_background.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
@@ -128,8 +208,20 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_edit_text_material.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
         "source": "/Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/tooltip_frame_dark.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
@@ -152,6 +244,10 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_icon_light.xml"
     },
@@ -160,8 +256,16 @@
         "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/drawable/notification_bg.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/8581b79d14419070a896c281f81af3db5ed021c7/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
@@ -196,12 +300,20 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
         "source": "/Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
@@ -234,6 +346,10 @@
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
@@ -300,6 +416,10 @@
         "source": "/Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/res/drawable/navigation_empty_icon.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
@@ -328,6 +448,10 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
         "source": "/Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/res/drawable/design_password_eye.xml"
     },
@@ -340,6 +464,10 @@
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/505c5fc4d8d88d08cdac751f8bb49f3215899a2e/output/res/drawable/notification_bg.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
@@ -348,16 +476,52 @@
         "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/drawable/notification_bg_low.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/505c5fc4d8d88d08cdac751f8bb49f3215899a2e/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/8581b79d14419070a896c281f81af3db5ed021c7/output/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_vector_test.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/8581b79d14419070a896c281f81af3db5ed021c7/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/item_background.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/dcecf999aea8ae52848a3a69d2bd946e2d5f792d/output/res/drawable/item_background.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/8581b79d14419070a896c281f81af3db5ed021c7/output/res/drawable/navigation_empty_icon.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
@@ -368,8 +532,24 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/notification_background.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/dcecf999aea8ae52848a3a69d2bd946e2d5f792d/output/res/drawable/notification_background.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
@@ -400,8 +580,16 @@
         "source": "/Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/res/drawable/design_password_eye.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/505c5fc4d8d88d08cdac751f8bb49f3215899a2e/output/res/drawable/notification_bg_low.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
@@ -416,20 +604,44 @@
         "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/drawable/notification_tile_bg.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
@@ -446,6 +658,10 @@
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
         "source": "/Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
@@ -476,8 +692,20 @@
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/8581b79d14419070a896c281f81af3db5ed021c7/output/res/drawable/design_snackbar_background.xml"
     },
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/rekeningku-react-native/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
@@ -486,5 +714,21 @@
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
         "source": "/Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/505c5fc4d8d88d08cdac751f8bb49f3215899a2e/output/res/drawable/notification_icon_background.xml"
     }
 ]

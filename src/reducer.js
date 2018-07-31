@@ -1,9 +1,11 @@
-import { combineReducers } from 'redux'
-import { apolloReducer } from 'apollo-cache-redux';
-
+import { createStore, combineReducers } from 'redux'
+import { reducer as formReducer } from 'redux-form'
+import { apolloReducer } from 'apollo-cache-redux'
 
 const rootReducer = combineReducers({
-  apollo: apolloReducer
+  apollo: apolloReducer,
+  form: formReducer,
 })
+const store = createStore(rootReducer)
 
 export default rootReducer

@@ -6,5 +6,9 @@
     {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/tofamaulana/Desktop/reactNative/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]

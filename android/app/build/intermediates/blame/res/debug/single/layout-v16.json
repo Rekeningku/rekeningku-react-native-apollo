@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/tofamaulana/Desktop/reactNative/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/tofamaulana/.android/build-cache/505c5fc4d8d88d08cdac751f8bb49f3215899a2e/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
         "source": "/Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/res/layout-v16/notification_template_custom_big.xml"
     },

@@ -4,30 +4,56 @@ import LoginScreen from './index';
 import { client } from '../apollo-client';
 import { InteractionManager, Text } from 'react-native'
 import React from 'react';
-import { MARKETS_SCREEN } from '../markets/container';
+import { REGISTER_SCREEN } from '../register/container';
+import { graphql } from 'react-apollo';
+import { Toast } from 'native-base';
+import { LOGIN } from '../graphql/client/mutations/create-auth';
+import { AUTH } from '../graphql/client/queries/auth';
 
 export const LOGIN_SCREEN = {
     screen: 'login.Index',
-    title: 'Login',
+    title: false,
+    animated: true,
+    animationType: 'none',
+    navigatorStyle: {
+        tabBarHidden: true,
+    },
 }
+
+const mapStateToProps = (states) =>({
+    form: states.form
+})
 
 
 const enhance = compose(
     withState('interactionsStatus','setInteractions',false),
-    withState('email','setEmail',null),
-    withState('password','setPassword',null),
-    connect(),
+    graphql(AUTH),
+    connect(mapStateToProps),
     withHandlers({
-        OnLoginClicked: (props) => (email,password) => {
-            props.navigator.push(MARKETS_SCREEN)
-            // graphql(LOGIN,{options:{variables:{email: email,password: password}}})
+        goToRegister: props=>()=>{
+            props.navigator.resetTo(REGISTER_SCREEN)
+        },
+        showErrorLogin(errorMessage){
+            Toast.show({
+                text: errorMessage,
+            buttonText: "OK",
+                duration: 3000,
+                type:'success',
+            })
         }
+        // onLoginClicked: ({form:{login:{values:{email,password}}}})=> ()=>{
+        //     // console.log('asdasdasdas')
+        //     client.mutate({mutation: LOGIN, variables:{email,password}})
+        // }
     }),
     lifecycle({
         componentDidMount(){
             InteractionManager.runAfterInteractions(()=>{
                 this.props.setInteractions(true)
             })
+        },
+        componentWillReceiveProps(nextProps){
+            console.log(nextProps)
         }
     }),
     branch(({interactionsStatus})=>interactionsStatus,renderComponent(LoginScreen),renderComponent(renderNothing())),

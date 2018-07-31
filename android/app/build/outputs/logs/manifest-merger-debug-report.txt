@@ -1,282 +1,282 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:1:1-22:12
+ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:1:1-22:12
 	package
-		ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:2:5-26
-		INJECTED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:1:11-69
 	android:versionCode
-		INJECTED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [example:react-native-google-analytics-bridge:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/rekeningku/.android/build-cache/32e28f9f170096c599656ed092d077b88f21acd5/output/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/rekeningku/.android/build-cache/65de1963e84e313de4aee47d5133ea2fd97e7508/output/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/rekeningku/.android/build-cache/d77bb6d077a8aa44abed9282910dad7fddc9ad7e/output/AndroidManifest.xml:24:5-67
+ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [example:react-native-google-analytics-bridge:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/tofamaulana/.android/build-cache/a79b67cd81b668132977f3a8557f0c92af09aa92/output/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/tofamaulana/.android/build-cache/d1e3989a97add08418bc16561ce00677bf007e23/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/tofamaulana/.android/build-cache/2dac2ed68a5f358fe24b7dcc160f42f408891bbe/output/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:6:5-20:19
-MERGED from [example:react-native-splash-screen:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-12:19
-MERGED from [example:react-native-image-picker:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-21:19
-MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:29:5-45:19
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /Users/rekeningku/.android/build-cache/9e30246aeed562c18b2edcbfaac65fc412b3d4d6/output/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/rekeningku/.android/build-cache/32e28f9f170096c599656ed092d077b88f21acd5/output/AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/rekeningku/.android/build-cache/2906197ab4886bb32db954147fc174a834e37d2c/output/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/rekeningku/.android/build-cache/d9e76eb925ff39f96a7c4a4c4925d774638bfeda/output/AndroidManifest.xml:22:5-20
-MERGED from [example:react-native-exception-handler:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-exception-handler/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-14:19
-MERGED from [example:react-native-device-info:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20:19
-MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/rekeningku/.android/build-cache/65de1963e84e313de4aee47d5133ea2fd97e7508/output/AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/rekeningku/.android/build-cache/d77bb6d077a8aa44abed9282910dad7fddc9ad7e/output/AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/rekeningku/.android/build-cache/507d4c1dacbcc7276efdcf0cd7e6a5865aae5afa/output/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/rekeningku/.android/build-cache/477a2335e09c716e92618c4493382e1af06458a4/output/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/rekeningku/.android/build-cache/74c50f818066df1201f8524f34a45afb34beee5b/output/AndroidManifest.xml:22:5-26:19
-MERGED from [example:react-native-navigation:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:11:5-18:19
-MERGED from [com.facebook.react:react-native:0.56.0] /Users/rekeningku/.android/build-cache/45ede3b814a52101b00410068cf3de54e9d8248e/output/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/rekeningku/.android/build-cache/b11f55007c2b32093269bc664f866116488a608d/output/AndroidManifest.xml:11:5-20
-MERGED from [org.webkit:android-jsc:r174650] /Users/rekeningku/.android/build-cache/314893447692e0ed1d4a21748f4e5ed35fec65ef/output/AndroidManifest.xml:2:3-17
-MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/rekeningku/.android/build-cache/36c3cc4323ddd7cd5c72b789a04db984b844d98d/output/AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:design:25.3.1] /Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:25.3.1] /Users/rekeningku/.android/build-cache/630caf301ce9cbe8091310375f9d0034de4bcf17/output/AndroidManifest.xml:26:5-20
-MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/rekeningku/.android/build-cache/b1d1b504e9ff70c5d8d456acc88d2fc5d4cbc8fd/output/AndroidManifest.xml:12:5-20
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/rekeningku/.android/build-cache/1a18c5bc6ccbd2f01929fa231843323ada8851f7/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rekeningku/.android/build-cache/b5977330b96cb19f6774681427bfab1e102e6163/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/rekeningku/.android/build-cache/cd073c49d76e0e30cf856bd52d6d1e66deebbd24/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/rekeningku/.android/build-cache/4b517c3fadb71d006b9f9d635b3088cf86739052/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/rekeningku/.android/build-cache/4a8af98ba259279a1d440d4d34abdb227cc751a2/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/rekeningku/.android/build-cache/f7b39ae2e60a2734cc33fc77b41da2f19d45dcfa/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/rekeningku/.android/build-cache/263af394ce8805ffeb14856266d9c5ce5e80c099/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/rekeningku/.android/build-cache/05e17d144eef7282d02e1552b9f82054edf5af32/output/AndroidManifest.xml:24:5-28:19
-MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/rekeningku/.android/build-cache/780ae6fc08c45e3407b458ab63542cd5331f41f9/output/AndroidManifest.xml:12:5-20
+ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [example:react-native-splash-screen:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-12:19
+MERGED from [example:react-native-image-picker:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-21:19
+MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /Users/tofamaulana/.android/build-cache/24c5d28a120447928f3487e1f9cdcc3619f7f6c9/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/tofamaulana/.android/build-cache/a79b67cd81b668132977f3a8557f0c92af09aa92/output/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/tofamaulana/.android/build-cache/7ff1110f395efe8b45f569615e25f06c983b90cb/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/tofamaulana/.android/build-cache/1ad33742261051742e1ad6668b6415858f243110/output/AndroidManifest.xml:22:5-20
+MERGED from [example:react-native-exception-handler:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-exception-handler/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-14:19
+MERGED from [example:react-native-device-info:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20:19
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/tofamaulana/.android/build-cache/d1e3989a97add08418bc16561ce00677bf007e23/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/tofamaulana/.android/build-cache/2dac2ed68a5f358fe24b7dcc160f42f408891bbe/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/tofamaulana/.android/build-cache/d8c324df9652d836758dc516b3c71e6fa788872a/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/tofamaulana/.android/build-cache/3e0d262e56b78e13358a9f393adbff31dfd53af2/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/tofamaulana/.android/build-cache/f5ef13cab8cc5c2ffd2d7a9201ca3da9103494af/output/AndroidManifest.xml:22:5-26:19
+MERGED from [example:react-native-navigation:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:11:5-18:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/tofamaulana/.android/build-cache/d039391b3bf837e3a536bb07889b43390e880832/output/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/tofamaulana/.android/build-cache/5373ca6ac848db5f5cdac4e51c200c538d950353/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/tofamaulana/.android/build-cache/9c6b6e0a9b608c70087957ae3580c774746743fb/output/AndroidManifest.xml:2:3-17
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/tofamaulana/.android/build-cache/dcecf999aea8ae52848a3a69d2bd946e2d5f792d/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/tofamaulana/.android/build-cache/8581b79d14419070a896c281f81af3db5ed021c7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/tofamaulana/.android/build-cache/a011b85d9149a68de8dea833f5b26afc6f06e0e3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/tofamaulana/.android/build-cache/f187702bdd318f1be1d883b8f920cd24435faca2/output/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/tofamaulana/.android/build-cache/23f7c95cd37e4d72c89dc385b1a53f7e2897a626/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/tofamaulana/.android/build-cache/07e45a947d9402926cbe01a30923f777da6c1318/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/tofamaulana/.android/build-cache/3580572c91f421f94d3d60bf43326b2ddec421c4/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/tofamaulana/.android/build-cache/04aaa816ab0841a4e37dba52393544090a382712/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/tofamaulana/.android/build-cache/cc15d747e1abdf6411dfbaf10454f1c905760bf0/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/tofamaulana/.android/build-cache/cbbcbec1cd68d7048f8e918203c744d90a956cb0/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/tofamaulana/.android/build-cache/098a58407877e3932f8b6432be5f3dc37f67eff1/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/tofamaulana/.android/build-cache/505c5fc4d8d88d08cdac751f8bb49f3215899a2e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/tofamaulana/.android/build-cache/00b3d4dab9310850f1e704dabc8b52c9ee7fa714/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/tofamaulana/.android/build-cache/5dd958868bd742847390e546631afec1688bc93d/output/AndroidManifest.xml:12:5-20
 	android:label
-		ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:10:9-41
 	android:allowBackup
-		ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:8:9-36
+		ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:8:9-36
 	android:icon
-		ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:9:9-43
 	android:theme
-		ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:11:9-65
+		ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:11:9-65
 	android:name
-		ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:7:9-40
+		ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:7:9-40
 activity#com.example.MainActivity
-ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:12:9-19:20
+ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:12:9-19:20
 	android:label
-		ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:14:13-45
+		ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:14:13-45
 	android:name
-		ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:13:13-41
+		ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:13:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:15:13-18:29
+ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
-INJECTED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [example:react-native-svg:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-svg/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [example:react-native-splash-screen:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [example:react-native-snackbar:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-snackbar/android/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
-MERGED from [example:react-native-linear-gradient:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-linear-gradient/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [example:react-native-image-picker:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [example:react-native-google-analytics-bridge:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /Users/rekeningku/.android/build-cache/9e30246aeed562c18b2edcbfaac65fc412b3d4d6/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/rekeningku/.android/build-cache/32e28f9f170096c599656ed092d077b88f21acd5/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/rekeningku/.android/build-cache/2906197ab4886bb32db954147fc174a834e37d2c/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/rekeningku/.android/build-cache/d9e76eb925ff39f96a7c4a4c4925d774638bfeda/output/AndroidManifest.xml:20:5-44
-MERGED from [example:react-native-exit-app:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-exit-app/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [example:react-native-exception-handler:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-exception-handler/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [example:react-native-device-info:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/rekeningku/.android/build-cache/65de1963e84e313de4aee47d5133ea2fd97e7508/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/rekeningku/.android/build-cache/d77bb6d077a8aa44abed9282910dad7fddc9ad7e/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/rekeningku/.android/build-cache/507d4c1dacbcc7276efdcf0cd7e6a5865aae5afa/output/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/rekeningku/.android/build-cache/477a2335e09c716e92618c4493382e1af06458a4/output/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/rekeningku/.android/build-cache/74c50f818066df1201f8524f34a45afb34beee5b/output/AndroidManifest.xml:20:5-44
-MERGED from [example:react-native-config:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-config/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [example:react-native-android-sms-listener:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-android-sms-listener/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [example:react-native-navigation:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.56.0] /Users/rekeningku/.android/build-cache/45ede3b814a52101b00410068cf3de54e9d8248e/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/rekeningku/.android/build-cache/18df3eaddaa88f84b16cf52ba36b571bf8794455/output/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/rekeningku/.android/build-cache/40efc7a8e1b4a593b0887f494064d6eb7b310987/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/rekeningku/.android/build-cache/c992ab44713c712cee13f1d53f874ee46b287048/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/rekeningku/.android/build-cache/a0e0a392321941a49ff3a893bb0624b1950a2077/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/rekeningku/.android/build-cache/0452709174299063eb5a41d5df55613cb4d8ba4b/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/rekeningku/.android/build-cache/19ba7b2a033847512b31b27859d6680c8e7fa3ac/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/rekeningku/.android/build-cache/36ccb9039823e2db07fb982fd4080080f717f251/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/rekeningku/.android/build-cache/b11f55007c2b32093269bc664f866116488a608d/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/rekeningku/.android/build-cache/36c3cc4323ddd7cd5c72b789a04db984b844d98d/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:25.3.1] /Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/rekeningku/.android/build-cache/0f7ad64d2fcc6ee60a13d6a70b38ac2ce4dbafab/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] /Users/rekeningku/.android/build-cache/630caf301ce9cbe8091310375f9d0034de4bcf17/output/AndroidManifest.xml:20:5-44
-MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/rekeningku/.android/build-cache/b1d1b504e9ff70c5d8d456acc88d2fc5d4cbc8fd/output/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/rekeningku/.android/build-cache/eb8b2d14a1299eeaa616090519ade2e279669fdf/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.1.0] /Users/rekeningku/.android/build-cache/1a18c5bc6ccbd2f01929fa231843323ada8851f7/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rekeningku/.android/build-cache/b5977330b96cb19f6774681427bfab1e102e6163/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/rekeningku/.android/build-cache/cd073c49d76e0e30cf856bd52d6d1e66deebbd24/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/rekeningku/.android/build-cache/4b517c3fadb71d006b9f9d635b3088cf86739052/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/rekeningku/.android/build-cache/4a8af98ba259279a1d440d4d34abdb227cc751a2/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/rekeningku/.android/build-cache/f7b39ae2e60a2734cc33fc77b41da2f19d45dcfa/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/rekeningku/.android/build-cache/263af394ce8805ffeb14856266d9c5ce5e80c099/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/rekeningku/.android/build-cache/05e17d144eef7282d02e1552b9f82054edf5af32/output/AndroidManifest.xml:20:5-22:41
-MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/rekeningku/.android/build-cache/780ae6fc08c45e3407b458ab63542cd5331f41f9/output/AndroidManifest.xml:8:5-10:41
+INJECTED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [example:react-native-svg:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-svg/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [example:react-native-splash-screen:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [example:react-native-snackbar:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-snackbar/android/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
+MERGED from [example:react-native-linear-gradient:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-linear-gradient/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [example:react-native-image-picker:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [example:react-native-google-analytics-bridge:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /Users/tofamaulana/.android/build-cache/24c5d28a120447928f3487e1f9cdcc3619f7f6c9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/tofamaulana/.android/build-cache/a79b67cd81b668132977f3a8557f0c92af09aa92/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/tofamaulana/.android/build-cache/7ff1110f395efe8b45f569615e25f06c983b90cb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/tofamaulana/.android/build-cache/1ad33742261051742e1ad6668b6415858f243110/output/AndroidManifest.xml:20:5-44
+MERGED from [example:react-native-exit-app:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-exit-app/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [example:react-native-exception-handler:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-exception-handler/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [example:react-native-device-info:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/tofamaulana/.android/build-cache/d1e3989a97add08418bc16561ce00677bf007e23/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/tofamaulana/.android/build-cache/2dac2ed68a5f358fe24b7dcc160f42f408891bbe/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/tofamaulana/.android/build-cache/d8c324df9652d836758dc516b3c71e6fa788872a/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/tofamaulana/.android/build-cache/3e0d262e56b78e13358a9f393adbff31dfd53af2/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/tofamaulana/.android/build-cache/f5ef13cab8cc5c2ffd2d7a9201ca3da9103494af/output/AndroidManifest.xml:20:5-44
+MERGED from [example:react-native-config:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-config/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [example:react-native-android-sms-listener:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-android-sms-listener/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [example:react-native-navigation:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/tofamaulana/.android/build-cache/d039391b3bf837e3a536bb07889b43390e880832/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/tofamaulana/.android/build-cache/3b4342567b925445ec49ed159a003edb26b83036/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/tofamaulana/.android/build-cache/312ca58c9bf5fede5b1923383778b5d45e4ebe8f/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/tofamaulana/.android/build-cache/e46f4bb799d73a0a8d8c19dc75062e48b265e254/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/tofamaulana/.android/build-cache/62927b80bcf814fc149c78af363ca5bed575b1af/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/tofamaulana/.android/build-cache/ee907438b8499b6edd24d7d99ca11b608a80951a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/tofamaulana/.android/build-cache/43117b834308c55f2e2c6e90ca7cc4fde1335aa6/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/tofamaulana/.android/build-cache/177ed44af732bf877bf76137351b161f62e1ee07/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/tofamaulana/.android/build-cache/5373ca6ac848db5f5cdac4e51c200c538d950353/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/tofamaulana/.android/build-cache/dcecf999aea8ae52848a3a69d2bd946e2d5f792d/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /Users/tofamaulana/.android/build-cache/8581b79d14419070a896c281f81af3db5ed021c7/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/tofamaulana/.android/build-cache/aca506ace52e737c28310571a5fef62cbba88217/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/tofamaulana/.android/build-cache/a011b85d9149a68de8dea833f5b26afc6f06e0e3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/tofamaulana/.android/build-cache/f187702bdd318f1be1d883b8f920cd24435faca2/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/tofamaulana/.android/build-cache/c0ffc99842f188e0e88fff59c499ac60542a1d63/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/tofamaulana/.android/build-cache/23f7c95cd37e4d72c89dc385b1a53f7e2897a626/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/tofamaulana/.android/build-cache/07e45a947d9402926cbe01a30923f777da6c1318/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/tofamaulana/.android/build-cache/3580572c91f421f94d3d60bf43326b2ddec421c4/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/tofamaulana/.android/build-cache/04aaa816ab0841a4e37dba52393544090a382712/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/tofamaulana/.android/build-cache/cc15d747e1abdf6411dfbaf10454f1c905760bf0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/tofamaulana/.android/build-cache/cbbcbec1cd68d7048f8e918203c744d90a956cb0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/tofamaulana/.android/build-cache/098a58407877e3932f8b6432be5f3dc37f67eff1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/tofamaulana/.android/build-cache/505c5fc4d8d88d08cdac751f8bb49f3215899a2e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/tofamaulana/.android/build-cache/00b3d4dab9310850f1e704dabc8b52c9ee7fa714/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/tofamaulana/.android/build-cache/5dd958868bd742847390e546631afec1688bc93d/output/AndroidManifest.xml:8:5-10:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] /Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] /Users/tofamaulana/.android/build-cache/8581b79d14419070a896c281f81af3db5ed021c7/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml
 provider#com.imagepicker.FileProvider
-ADDED from [example:react-native-image-picker:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-20:20
+ADDED from [example:react-native-image-picker:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-20:20
 	android:authorities
-		ADDED from [example:react-native-image-picker:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:14:13-60
+		ADDED from [example:react-native-image-picker:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:14:13-60
 	android:grantUriPermissions
-		ADDED from [example:react-native-image-picker:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:16:13-47
+		ADDED from [example:react-native-image-picker:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:16:13-47
 	android:exported
-		ADDED from [example:react-native-image-picker:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:15:13-37
+		ADDED from [example:react-native-image-picker:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:15:13-37
 	android:name
-		ADDED from [example:react-native-image-picker:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:13:13-56
+		ADDED from [example:react-native-image-picker:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:13:13-56
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [example:react-native-image-picker:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:17:13-19:58
+ADDED from [example:react-native-image-picker:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:17:13-19:58
 	android:resource
-		ADDED from [example:react-native-image-picker:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:19:17-55
+		ADDED from [example:react-native-image-picker:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:19:17-55
 	android:name
-		ADDED from [example:react-native-image-picker:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:18:17-67
+		ADDED from [example:react-native-image-picker:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:18:17-67
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [example:react-native-google-analytics-bridge:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/AndroidManifest.xml:12:5-79
-MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/rekeningku/.android/build-cache/32e28f9f170096c599656ed092d077b88f21acd5/output/AndroidManifest.xml:24:5-79
+ADDED from [example:react-native-google-analytics-bridge:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/tofamaulana/.android/build-cache/a79b67cd81b668132977f3a8557f0c92af09aa92/output/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [example:react-native-google-analytics-bridge:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/AndroidManifest.xml:12:22-76
+		ADDED from [example:react-native-google-analytics-bridge:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/AndroidManifest.xml:12:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:27:5-68
-MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/rekeningku/.android/build-cache/32e28f9f170096c599656ed092d077b88f21acd5/output/AndroidManifest.xml:27:5-68
+ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /Users/tofamaulana/.android/build-cache/a79b67cd81b668132977f3a8557f0c92af09aa92/output/AndroidManifest.xml:27:5-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:27:22-65
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:27:22-65
 receiver#com.google.android.gms.analytics.AnalyticsReceiver
-ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:30:9-34:20
+ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:30:9-34:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:32:13-35
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:32:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:33:13-37
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:31:13-78
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:31:13-78
 service#com.google.android.gms.analytics.AnalyticsService
-ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:36:9-39:40
+ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:36:9-39:40
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:38:13-35
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:38:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:39:13-37
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:39:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:37:13-77
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:37:13-77
 service#com.google.android.gms.analytics.AnalyticsJobService
-ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:40:9-44:72
+ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:40:9-44:72
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:42:13-35
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:42:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:43:13-37
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:43:13-37
 	android:permission
-		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:44:13-69
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:44:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/rekeningku/.android/build-cache/163c732bfe66fd79bac47d2cd0b4dba3f90950bb/output/AndroidManifest.xml:41:13-80
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.1] /Users/tofamaulana/.android/build-cache/bf9886d431a1e14953a6985f64e4209afffa2b75/output/AndroidManifest.xml:41:13-80
 activity#com.masteratul.exceptionhandler.DefaultErrorScreen
-ADDED from [example:react-native-exception-handler:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-exception-handler/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-13:20
+ADDED from [example:react-native-exception-handler:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-exception-handler/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-13:20
 	android:name
-		ADDED from [example:react-native-exception-handler:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-exception-handler/android/build/intermediates/bundles/default/AndroidManifest.xml:12:19-84
+		ADDED from [example:react-native-exception-handler:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-exception-handler/android/build/intermediates/bundles/default/AndroidManifest.xml:12:19-84
 receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
-ADDED from [example:react-native-device-info:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-19:20
+ADDED from [example:react-native-device-info:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-19:20
 	android:enabled
-		ADDED from [example:react-native-device-info:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:14:13-35
+		ADDED from [example:react-native-device-info:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:14:13-35
 	android:exported
-		ADDED from [example:react-native-device-info:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:15:13-36
+		ADDED from [example:react-native-device-info:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:15:13-36
 	android:name
-		ADDED from [example:react-native-device-info:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:13:13-70
+		ADDED from [example:react-native-device-info:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:13:13-70
 intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [example:react-native-device-info:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:16:13-18:29
+ADDED from [example:react-native-device-info:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:16:13-18:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [example:react-native-device-info:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:17:17-79
+ADDED from [example:react-native-device-info:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:17:17-79
 	android:name
-		ADDED from [example:react-native-device-info:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:17:25-76
+		ADDED from [example:react-native-device-info:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-device-info/android/build/intermediates/bundles/default/AndroidManifest.xml:17:25-76
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/rekeningku/.android/build-cache/65de1963e84e313de4aee47d5133ea2fd97e7508/output/AndroidManifest.xml:23:5-82
-MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/rekeningku/.android/build-cache/d77bb6d077a8aa44abed9282910dad7fddc9ad7e/output/AndroidManifest.xml:23:5-82
+ADDED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/tofamaulana/.android/build-cache/d1e3989a97add08418bc16561ce00677bf007e23/output/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/tofamaulana/.android/build-cache/2dac2ed68a5f358fe24b7dcc160f42f408891bbe/output/AndroidManifest.xml:23:5-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/rekeningku/.android/build-cache/65de1963e84e313de4aee47d5133ea2fd97e7508/output/AndroidManifest.xml:23:22-79
+		ADDED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/tofamaulana/.android/build-cache/d1e3989a97add08418bc16561ce00677bf007e23/output/AndroidManifest.xml:23:22-79
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/rekeningku/.android/build-cache/f0d76a6b81927de0d6ba56c8d27f2df5bde7cc4f/output/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/tofamaulana/.android/build-cache/91334336531988aa2ac852915c5631051eaacca9/output/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/rekeningku/.android/build-cache/74c50f818066df1201f8524f34a45afb34beee5b/output/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/tofamaulana/.android/build-cache/f5ef13cab8cc5c2ffd2d7a9201ca3da9103494af/output/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/rekeningku/.android/build-cache/74c50f818066df1201f8524f34a45afb34beee5b/output/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/tofamaulana/.android/build-cache/f5ef13cab8cc5c2ffd2d7a9201ca3da9103494af/output/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/rekeningku/.android/build-cache/74c50f818066df1201f8524f34a45afb34beee5b/output/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/tofamaulana/.android/build-cache/f5ef13cab8cc5c2ffd2d7a9201ca3da9103494af/output/AndroidManifest.xml:24:13-58
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from [example:react-native-android-sms-listener:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-android-sms-listener/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-70
+ADDED from [example:react-native-android-sms-listener:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-android-sms-listener/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-70
 	android:name
-		ADDED from [example:react-native-android-sms-listener:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-android-sms-listener/android/build/intermediates/bundles/default/AndroidManifest.xml:11:22-67
+		ADDED from [example:react-native-android-sms-listener:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-android-sms-listener/android/build/intermediates/bundles/default/AndroidManifest.xml:11:22-67
 activity#com.reactnativenavigation.controllers.NavigationActivity
-ADDED from [example:react-native-navigation:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:12:9-14:86
+ADDED from [example:react-native-navigation:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:12:9-14:86
 	android:configChanges
-		ADDED from [example:react-native-navigation:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:14:13-83
+		ADDED from [example:react-native-navigation:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:14:13-83
 	android:name
-		ADDED from [example:react-native-navigation:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:13:13-84
+		ADDED from [example:react-native-navigation:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:13:13-84
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from [example:react-native-navigation:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:15:9-17:40
+ADDED from [example:react-native-navigation:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from [example:react-native-navigation:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:17:13-37
+		ADDED from [example:react-native-navigation:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from [example:react-native-navigation:unspecified] /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:16:13-77
+		ADDED from [example:react-native-navigation:unspecified] /Users/tofamaulana/Desktop/reactNative/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:16:13-77
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from [com.facebook.react:react-native:0.56.0] /Users/rekeningku/.android/build-cache/45ede3b814a52101b00410068cf3de54e9d8248e/output/AndroidManifest.xml:11:5-78
+ADDED from [com.facebook.react:react-native:0.56.0] /Users/tofamaulana/.android/build-cache/d039391b3bf837e3a536bb07889b43390e880832/output/AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from [com.facebook.react:react-native:0.56.0] /Users/rekeningku/.android/build-cache/45ede3b814a52101b00410068cf3de54e9d8248e/output/AndroidManifest.xml:11:22-75
+		ADDED from [com.facebook.react:react-native:0.56.0] /Users/tofamaulana/.android/build-cache/d039391b3bf837e3a536bb07889b43390e880832/output/AndroidManifest.xml:11:22-75
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:1:1-22:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:1:1-22:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:1:1-22:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:1:1-22:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/rekeningku/Documents/Projects/Repositories/fix conflict/RekeningkuV2/android/app/src/main/AndroidManifest.xml:1:1-22:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/tofamaulana/Desktop/reactNative/android/app/src/main/AndroidManifest.xml:1:1-22:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] /Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/rekeningku/.android/build-cache/0f7ad64d2fcc6ee60a13d6a70b38ac2ce4dbafab/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] /Users/rekeningku/.android/build-cache/630caf301ce9cbe8091310375f9d0034de4bcf17/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:26.1.0] /Users/rekeningku/.android/build-cache/1a18c5bc6ccbd2f01929fa231843323ada8851f7/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rekeningku/.android/build-cache/b5977330b96cb19f6774681427bfab1e102e6163/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/rekeningku/.android/build-cache/cd073c49d76e0e30cf856bd52d6d1e66deebbd24/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/rekeningku/.android/build-cache/4b517c3fadb71d006b9f9d635b3088cf86739052/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/rekeningku/.android/build-cache/4a8af98ba259279a1d440d4d34abdb227cc751a2/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/rekeningku/.android/build-cache/f7b39ae2e60a2734cc33fc77b41da2f19d45dcfa/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/rekeningku/.android/build-cache/263af394ce8805ffeb14856266d9c5ce5e80c099/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /Users/rekeningku/.android/build-cache/95a83ff791cd48776eedc6f03f04b534aada6bb6/output/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:25.3.1] /Users/tofamaulana/.android/build-cache/8581b79d14419070a896c281f81af3db5ed021c7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/tofamaulana/.android/build-cache/aca506ace52e737c28310571a5fef62cbba88217/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/tofamaulana/.android/build-cache/a011b85d9149a68de8dea833f5b26afc6f06e0e3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:26.1.0] /Users/tofamaulana/.android/build-cache/23f7c95cd37e4d72c89dc385b1a53f7e2897a626/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/tofamaulana/.android/build-cache/07e45a947d9402926cbe01a30923f777da6c1318/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/tofamaulana/.android/build-cache/3580572c91f421f94d3d60bf43326b2ddec421c4/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/tofamaulana/.android/build-cache/04aaa816ab0841a4e37dba52393544090a382712/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/tofamaulana/.android/build-cache/cc15d747e1abdf6411dfbaf10454f1c905760bf0/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/tofamaulana/.android/build-cache/cbbcbec1cd68d7048f8e918203c744d90a956cb0/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/tofamaulana/.android/build-cache/098a58407877e3932f8b6432be5f3dc37f67eff1/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/tofamaulana/.android/build-cache/505c5fc4d8d88d08cdac751f8bb49f3215899a2e/output/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:design:25.3.1] /Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] /Users/tofamaulana/.android/build-cache/8581b79d14419070a896c281f81af3db5ed021c7/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] /Users/rekeningku/.android/build-cache/fe5ee838858e473b5075a643045add248a453958/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] /Users/tofamaulana/.android/build-cache/8581b79d14419070a896c281f81af3db5ed021c7/output/AndroidManifest.xml:26:9-47
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/rekeningku/.android/build-cache/05e17d144eef7282d02e1552b9f82054edf5af32/output/AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/tofamaulana/.android/build-cache/00b3d4dab9310850f1e704dabc8b52c9ee7fa714/output/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/rekeningku/.android/build-cache/05e17d144eef7282d02e1552b9f82054edf5af32/output/AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/tofamaulana/.android/build-cache/00b3d4dab9310850f1e704dabc8b52c9ee7fa714/output/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/rekeningku/.android/build-cache/05e17d144eef7282d02e1552b9f82054edf5af32/output/AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/tofamaulana/.android/build-cache/00b3d4dab9310850f1e704dabc8b52c9ee7fa714/output/AndroidManifest.xml:26:13-58
