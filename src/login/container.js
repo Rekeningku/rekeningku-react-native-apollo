@@ -12,11 +12,15 @@ import { AUTH } from '../graphql/client/queries/auth';
 
 export const LOGIN_SCREEN = {
     screen: 'login.Index',
-    title: false,
     animated: true,
-    animationType: 'none',
+    animationType: 'fade',
     navigatorStyle: {
         tabBarHidden: true,
+        // navBarHidden: true, 
+        navBarBackgroundColor: '#fff',
+        navBarButtonColor: '#2b79c9',
+        drawUnderNavBar:true,
+        navBarTransparent: true,
     },
 }
 
