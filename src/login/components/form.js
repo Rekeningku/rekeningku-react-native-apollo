@@ -32,7 +32,7 @@ class Form extends Component {
       <View style={styles.container}>
         <ScrollView>
           <View style={styles.content}>
-            <Field name="Email" component={NBTextInput} label="Email" validate={[required]} floatingLabel/>
+            <Field name="email" component={NBTextInput} label="Email" validate={[required]} floatingLabel/>
             <Field name="password" component={NBTextInput} label="Password" validate={[required]} floatingLabel/>
           </View>
           <Button
@@ -42,7 +42,7 @@ class Form extends Component {
               marginBottom: 25,
               backgroundColor : '#2B79C9'
             }}
-            onPress={handleSubmit}
+            onPress={()=>handleSubmit()}
           >
               <Text style={{ color : 'white' }}>Login</Text>
           </Button>
@@ -57,7 +57,7 @@ const ContainerForm = reduxForm({
 })(Form)
 
 Form.propTypes = {
-  handleSubmit: PropTypes.func.isRequired,
+  onSubmit: PropTypes.func.isRequired,
 }
 
 export default ContainerForm

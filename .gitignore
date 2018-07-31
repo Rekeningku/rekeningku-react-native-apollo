@@ -3,3 +3,12 @@
 /ios/build
 /android/build
 /coverage
+
+# Android/IntelliJ
+#
+build/
+build-electron/
+.idea
+.gradle
+local.properties
+*.iml

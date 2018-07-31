@@ -14,7 +14,8 @@ import { withState, withHandlers, lifecycle, branch, pure } from 'recompose';
 export default WalletsScreen = (props) => {
     return(
         <View>
-            <Text>Wallets</Text>
+            <Text>Anda berhasil login</Text>
+            <Button onPress={()=>props.logout()} title='logout'></Button>
         </View>
     )
 }

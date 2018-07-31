@@ -1,19 +1,13 @@
 import gql from 'graphql-tag';
 
 export const LOGIN = gql`
-    mutation ($email: String!, $password: String!){
-        login(email: $email, password: $password){
-            message
-            expired
+    mutation login($email: String!, $password: String!){
+        login(email: $email, password: $password) {
             error
-            authtype
-            status
-            hash
+            authType
             token
-            dateTime
-            email
-            fName
-            uId
+            hash
+            status
         }
     }
 `

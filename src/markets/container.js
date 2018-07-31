@@ -5,11 +5,11 @@ import { client } from '../apollo-client';
 import { graphql } from 'react-apollo';
 import { PRICES } from '../graphql/api/queires/prices';
 import { IS_AUTHENTICATED } from '../graphql/client/queries/auth';
+import {ScreenVisibilityListener as RNNScreenVisibilityListener} from 'react-native-navigation';
 export const MARKETS_SCREEN = {
     screen: 'markets.Index',
     title: 'Markets',
 }
-
 const enhance = compose(
     connect(),
     graphql(PRICES),
